@@ -60,6 +60,6 @@ git init
 git add preprocessing.ipynb README.md
 git commit -m "Add data preprocessing assignment"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+git remote add origin https://github.com/J-harshavardhan/customer-data-preprocessing
 git push -u origin main
 ```
